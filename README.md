@@ -1,3 +1,10 @@
+<img width="1460" height="716" alt="Screenshot 2026-01-30 at 5 36 37 PM" src="https://github.com/user-attachments/assets/dbe8a6fe-ad65-4eed-950c-606dbfb67bd6" />
+
+
+
+
+
+
 #  AI-Powered Tire Chatbot & E-Commerce Platform
 
 A full-stack application that combines AI-powered customer support with e-commerce functionality for tire shopping. Users can interact with an intelligent chatbot, discover tires through natural language queries, and complete purchases with Stripe integration.
